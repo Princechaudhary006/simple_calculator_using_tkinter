@@ -1,4 +1,4 @@
-# simple_calculator_using_tkinter
+# Simple Calculator using Tkinter
 from tkinter import *
 import math
 
