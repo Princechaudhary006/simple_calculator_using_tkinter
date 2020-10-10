@@ -1,4 +1,7 @@
 # Simple Calculator using Tkinter
+## By Prince Chaudhary
+#Code
+![](https://www.instagram.com/p/B9hUUf1HJ5vUSwJCgrxRbJwkcAlZt6dytRoHZM0/?igshid=1ttgoroe7ycr1)
 from tkinter import *
 import math
 
